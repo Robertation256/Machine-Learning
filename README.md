@@ -7,4 +7,4 @@ Machine Learning Fall 2020 Project
 
 3. "shiseng_crawler.py" is the crawler that we used to crawl job records from Shixiseng
 
-4. During the implementation, Yuhang and I find it most effective to do pair programming, so all the code are results of both parties.
+4. During the implementation, Yuhang Qiu and I (Yuechuan Zhang) find it most effective to do pair programming, so all the code are results of both parties.
